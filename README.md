@@ -1,2 +1,2 @@
 # Software Systems - Labs
- Software Systems Labs using Java.
+Labs done during Software Systems class
