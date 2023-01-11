@@ -1,0 +1,9 @@
+-classpath 'C:\\Users\\email\\OneDrive\\Documents\\University\\Second Year\\COE 318\\Labs\\Lab Two\\Lab2ComplexNumber\\build\\classes\\java\\main;C:\\Users\\email\\OneDrive\\Documents\\University\\Second Year\\COE 318\\Labs\\Lab Two\\Lab2ComplexNumber\\build\\resources\\main'
+-d 'C:\\Users\\email\\OneDrive\\Documents\\University\\Second Year\\COE 318\\Labs\\Lab Two\\Lab2ComplexNumber\\build\\docs\\javadoc'
+-doctitle 'Lab2ComplexNumber API'
+-notimestamp 
+-quiet 
+-windowtitle 'Lab2ComplexNumber API'
+'C:\\Users\\email\\OneDrive\\Documents\\University\\Second Year\\COE 318\\Labs\\Lab Two\\Lab2ComplexNumber\\src\\main\\java\\coe318\\lab2\\ComplexNumber.java'
+'C:\\Users\\email\\OneDrive\\Documents\\University\\Second Year\\COE 318\\Labs\\Lab Two\\Lab2ComplexNumber\\src\\main\\java\\coe318\\lab2\\ComplexTry.java'
+'C:\\Users\\email\\OneDrive\\Documents\\University\\Second Year\\COE 318\\Labs\\Lab Two\\Lab2ComplexNumber\\src\\main\\java\\Lab2ComplexNumber\\Main.java'
